@@ -1,4 +1,4 @@
-# Estatistica-descritiva
+# Estatistica-descritiva 
 ## Introdução aos conceitos básicos relacionados à Estatística Descritiva
 Neste tópico você irá conhecer os conceitos básicos relacionados à Estatística Descritiva. 
 Em Estatística Descritiva, a preocupação fundamental é a representação dos dados fazendo uso de diagramas, gráficos, além do interesse em poder resumir tais valores. Para isso é fundamental definir alguns nomes e conceitos básicos relacionados e que irá ajudar no entendimento do tópico.
